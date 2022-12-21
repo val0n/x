@@ -65,7 +65,7 @@ function nav(path) {
 		}
 	}
 	html += `<div class="mdui-toolbar-spacer"></div>
-    <a href="https://www.youtube.com/watch?v=AE9VfNrH-xU" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: 'dbgbgb'}">
+    <a href="https://www.youtube.com/watch?v=AE9VfNrH-xU" target="_blank" class="mdui-btn mdui-btn-icon mdui-ripple mdui-ripple-white" mdui-tooltip="{content: ''}">
       <svg version="1.0" xmlns="http://www.w3.org/2000/svg"
  width="611.000000pt" height="615.000000pt" viewBox="0 0 611.000000 615.000000"
  preserveAspectRatio="xMidYMid meet">
